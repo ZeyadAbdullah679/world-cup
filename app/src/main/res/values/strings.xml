@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">World Cup</string>
+    <string name="germany">Germany</string>
+    <string name="brazil">Brazil</string>
+    <string name="_1">1</string>
+    <string name="dash">-</string>
+    <string name="_7">7</string>
+    <string name="_2014">2014</string>
+</resources>
