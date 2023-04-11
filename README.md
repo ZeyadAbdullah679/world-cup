@@ -1,3 +1,3 @@
 # World Cup Matches
 
-Simple ui shows knockout matches in world cup using RecyclerView and CsvParser.
+Simple ui shows matches in world cup using RecyclerView and CsvParser.
